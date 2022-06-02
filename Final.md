@@ -13,5 +13,10 @@
 ### Methodology
 #### I used a correlation test in Tabeleau to complete my analysis. The amount of Seattle homeless people per year against the number of tweets per day on average per year, from 2016-2020. Here is a link to the Seattle homelessness dataset. https://data.world/sasha/count-us-in-report-homelessness-data. The Twitter search is not a data set. I created my own data set using their advanced search. Thanks to my collegues, they were able to recommend me to use this (thanks, Lunden). I decided to center the dates from 2016 to 2020. I then used a random number generator to select a data from 0-31 to select a day out of each month for 60 months. Hencde generating a dataset of 60 points. These 60 points were how many tweets in that respective day contained "Seattle homeless" or "Seattle homelessness".  Here is a link to the advanced search. https://twitter.com/search-advanced?lang=en
 
-#### As far as the licensing, all I can find is "Other" on my data.world dataset. This dataset will assist me with the total counts and I may be able to go even deeper into why homelessness is increasing (if it is). I do not see any ethical concerns at this moment.
+### Findings
 
+
+### Discussion
+
+
+### Conclusion
