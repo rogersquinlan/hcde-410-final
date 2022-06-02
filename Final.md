@@ -1,3 +1,5 @@
+## Twitter Talk vs Real World Data
+
 ### Introduction
 #### 
 
@@ -8,12 +10,7 @@
 #### Does the amount of social media communication (tweet counts) on homelessness reflect the true statistics of homelessness (data.world) ? 
 
 ### Methodology
-#### I am planning on using a correlation test in R and doing visualizations in tableau. 
-I will do a correlation test for 3 to 5 years and them compare the correlation in those years against each other. 
-If time permits, I will also look at the possible correlation during COVID-19. I am planning on doing this analysis because I am interested in seeing how social media and news discussion reflects reality. 
-I feel that recently the talk around homelessness in Seattle has increased but I want to confirm if this is linear or not, both rising. 
-This is important because we will be able to see if news sources are pushing certain agendas or not and whether this is an increasing problem or just more visible. 
-I hope to learn about social media data and to see if my presumptions are true. I plan to present this in Google Slides.
+#### I am planning on using a correlation test in R and doing visualizations in tableau. I will do a correlation test for 3 to 5 years and them compare the correlation in those years against each other. If time permits, I will also look at the possible correlation during COVID-19. I am planning on doing this analysis because I am interested in seeing how social media and news discussion reflects reality. I feel that recently the talk around homelessness in Seattle has increased but I want to confirm if this is linear or not, both rising. This is important because we will be able to see if news sources are pushing certain agendas or not and whether this is an increasing problem or just more visible. I hope to learn about social media data and to see if my presumptions are true. I plan to present this in Google Slides.
 
 #### The data I plan to use will come from Data.world and Seattle.gov. I will use Twitters advanced search to filter tweets about Seattle homelessness. I will be able to get specific counts from specific data ranges to compare against the homelessness data. 
 
