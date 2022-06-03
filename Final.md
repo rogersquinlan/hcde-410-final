@@ -17,7 +17,7 @@
 ### Findings
 #### The Seattle homeless population rose from 2016-2018, and then declined in 2019, to rise again in 2020. Overall, I found the population growth from 2016-2020 was 1,062. For the tweet counts, I found the average number of Seattle homeless/homelessness tweets per day fluctuated throughout 2016-2020. However, there was a steady rise from 2016-2019 with a peak in 2019 of 69.08 tweets per day. The low point was in 2017, with 34.02 tweets per day. There was no clear pattern or relationship between the two datasets. 
 
-![Screen Shot 2022-06-03 at 4.38.32 PM.png](/rogersquinlan/hcde-410-final/Screen Shot 2022-06-03 at 4.38.32 PM.png)
+![alt text](Screen Shot 2022-06-03 at 4.38.32 PM.png "Title")
 
 ### Discussion
 #### There was an overall rise in the homeless population which makes sense. The rise was steady so I do not think there is much to note there. However, the amount of tweets per day fluctuated much more between the years, especially in 2016-2017. This interval had the sharpest increase in the homeless population but the lowest amount of tweets per day. The exact opposite of what I was expecting. Also, in 2019, the homeless population was on the decline despite having the highest number of tweets per day. I did not find any strong correlation between the two, suggesting the social media does not reflect the real world data. There are some limitations while noting this outcome. I did not use overall Twitter data. How many tweets per year, the increase or decrease in users, or the engagement(retweets, likes, comments) of tweets. These would all have an effect on my Twitter dataset.
